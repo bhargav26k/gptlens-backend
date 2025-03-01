@@ -35,7 +35,7 @@ MyGPT Lens is a powerful **AI-driven Chrome extension** that enhances your brows
 
 ## 🚀 Installation & Usage  
 
-1️⃣ **Download MyGPT Lens** from the [Chrome Web Store](https://chrome.google.com/webstore/detail/mygpt-lens/your-extension-id).  
+1️⃣ **Download MyGPT Lens** from the [Chrome Web Store](https://chromewebstore.google.com/detail/mygptlens/cboahmnmofomlocaiabdapkcpcieaenn?hl=en).  
 2️⃣ **Pin the extension** to your Chrome toolbar.  
 3️⃣ **Select text, right-click on images, or take screenshots** to interact with AI effortlessly.  
 
@@ -54,8 +54,8 @@ Have ideas for improvement? Feel free to fork the repository and submit a PR!
 ---
 
 ## 📬 Contact  
-For queries, reach out at [your-email@example.com](mailto:your-email@example.com) or visit the [GitHub Repo](https://github.com/your-username/MyGPT-Lens).  
+For queries, reach out at [bhargav2691@gmail.com](mailto:bhargav2691@gmail.com) or visit the [GitHub Repo](https://github.com/bhargav26k/gptlens-backend).  
 
 ---
 
-🔗 **[Download MyGPT Lens Now](https://chrome.google.com/webstore/detail/mygpt-lens/your-extension-id)** and revolutionize your AI-powered browsing! 🚀  
+🔗 **[Download MyGPT Lens Now](https://chromewebstore.google.com/detail/mygptlens/cboahmnmofomlocaiabdapkcpcieaenn?hl=en)** and revolutionize your AI-powered browsing! 🚀  
